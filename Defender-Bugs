@@ -1,7 +1,4 @@
-In this game there are many bugs like the cannon's body falling down forever and constantly building speed, the cannon's body not rotating 
-when the rest of the components do, the cannon being able to rotate a indefinitely in either derection, or the meteors spawning after the 
-game is over. All of this happens when the game is played but what should happen is that the cannon stayes and rotates together, the 
-cannon doesn't rotate past where it colides with the ground, and the meteors don't spawn when the game ends.
+In this game there are many bugs like the cannon's body falling down forever and constantly building speed, the cannon's body not rotating when the rest of the components do, the cannon being able to rotate a indefinitely in either derection, or the meteors spawning after the game is over. All of this happens when the game is played but what should happen is that the cannon stayes and rotates together, the cannon doesn't rotate past where it colides with the ground, and the meteors don't spawn when the game ends.
 - [ ] fix cannon so the body of the cannon does'nt fall
 - [ ] fix cannon body's rotation to the body will rotate with the rest
 - [ ] add something so the cannon won't rotate a full 360 degrees (it doesn't stop at 360) in either direction
